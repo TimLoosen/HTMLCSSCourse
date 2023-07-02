@@ -2,26 +2,36 @@
 	box-sizing: border-box;
 }
 
+.offset {
+	margin-inline: -5px;
+}
+
 .recipe {
 	border: 2px solid black;
 	background-color: lightgray;
+	margin-inline: 5px;
+	margin-top: 10px;
 }
 
 .col-sm-12 {
 	width: 100%;
+	float: left;
 }
 
 @media (min-width: 768px) {
 	.col-md-6 {
 		width: 50%;
+		float: left;
 	}
 	.col-md-12 {
 		width: 100%;
+		float: left;
 	}
 }
 
 @media (min-width: 992px) {
 	.col-lg-4 {
 		width: 33%;
+		float: left;
 	}
 }

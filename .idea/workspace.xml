@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45deb6b-777a-4c87-8526-e754f9c30ae0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/module2_solution/css/module2.css" beforeDir="false" afterPath="$PROJECT_DIR$/module2_solution/css/module2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2_solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2_solution/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module2_solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            <state relative-caret-position="663">
+              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -148,8 +149,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module2_solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        <state relative-caret-position="663">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
         </state>
       </provider>
     </entry>
