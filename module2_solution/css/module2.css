@@ -10,7 +10,25 @@
 	border: 2px solid black;
 	background-color: lightgray;
 	margin-inline: 5px;
-	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.recipe-name {
+	border: 2px solid black;
+	float: right;
+	padding-inline: 30px;
+	margin-top: -2px;
+	margin-right: -2px;
+	margin-bottom: 5px;
+
+	font-size: 125%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.recipe-description {
+	clear: right;
+	margin: 5px;
 }
 
 .col-sm-12 {
