@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+.recipe {
+	border: 2px solid black;
+	background-color: lightgray;
+}
+
+.col-sm-12 {
+	width: 100%;
+}
+
+@media (min-width: 768px) {
+	.col-md-6 {
+		width: 50%;
+	}
+	.col-md-12 {
+		width: 100%;
+	}
+}
+
+@media (min-width: 992px) {
+	.col-lg-4 {
+		width: 33%;
+	}
+}
